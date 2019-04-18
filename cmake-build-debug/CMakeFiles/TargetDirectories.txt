@@ -1,0 +1,3 @@
+/home/gaurav/dev/c++/mtg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gaurav/dev/c++/mtg/cmake-build-debug/CMakeFiles/mtg.dir
+/home/gaurav/dev/c++/mtg/cmake-build-debug/CMakeFiles/edit_cache.dir
